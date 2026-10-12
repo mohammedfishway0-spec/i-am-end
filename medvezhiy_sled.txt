@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ban-parcel-promoted-standards.trycloudflare.com
+=======
+thu-justin-madonna-application.trycloudflare.com
+>>>>>>> Stashed changes
